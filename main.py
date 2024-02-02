@@ -12,8 +12,7 @@ body = ""
 to_email = ""
 smtp_server = "smtp.gmail.com"
 smtp_port = 465
-smtp_username = "vtsl5819@gmail.com"
-smtp_password = "vklvjwsjcilcbyqm"
+
 
 em['From'] = smtp_username
 em['To'] = to_email
